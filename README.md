@@ -1,4 +1,3 @@
-Sistema de cadastro 🖥
 Tela de Login
-Cadastro
+Cadastro 
 Formulario 
